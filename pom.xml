@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.skilltranfer</groupId>
-    <artifactId>SkillTrafer</artifactId>
+    <artifactId>SkillTransfer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SkillTrafer</name>
     <description>SkillTrafer</description>
